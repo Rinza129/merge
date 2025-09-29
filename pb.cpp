@@ -1,4 +1,5 @@
-//Solve by pinkey
+//Solved by pinkey
+//problem of codeforce; and i am in du branch;
 
 #include<bits/stdc++.h>
 using namespace std;
